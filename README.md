@@ -55,8 +55,8 @@ With **6+ years** of experience as a Technical Writer and Docs Engineer, I speci
 
 | Project       | Type                     | Contribution                                      | Link |
 |---------------|--------------------------|---------------------------------------------------|------|
-| **NEAR**      | Documentation           | Contributed to protocol documentation and developer guides | [NEAR Docs](https://github.com/near) |
-| **MultiversX**| Documentation Architecture | Participated in documentation task force and improved structure | [MultiversX](https://github.com/multiversx) |
+| **SputnikDAO**      | Documentation & Research          | Opened issues and proposed fixes to code & commented docs during smart contract research| [sputnikdao2](https://github.com/near-daos/sputnik-dao-contract) |
+| **MultiversX**| Documentation Architecture | Participated in documentation task force and improved structure with reviews, edits, and proposals | [MultiversX](https://github.com/multiversx/mx-docs) |
 | **Nano**      | Community & Docs        | Supported technical community building and education | [Nano](https://github.com/nanocurrency) |
 
 ---
