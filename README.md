@@ -68,7 +68,7 @@ With **6+ years** of experience as a Technical Writer and Docs Engineer, I speci
   [Read on Substack](https://thecoding.substack.com/p/storage-cost-attacks-on-near-explained)
 - **How to Become a Bug Bounty Hunter** — Guest article  
   [Read on HackenProof](https://hackenproof.com/blog/how-to-become-a-bug-bounty-hunter)
-- Technical articles and research for [**MultiversX**](https://multiversx.com/blog/andromeda-supernova-highspeed-highways), [**Trezu**](https://thecoding.substack.com/p/meet-trezu-multichain-treasury-manager), and [**Ika**](https://x.com/vinibarbosabr/status/2059247065310347717)
+- Technical articles and research for [**MultiversX**](https://multiversx.com/blog/andromeda-supernova-highspeed-highways), [**Trezu**](https://thecoding.substack.com/p/meet-trezu-multichain-treasury-manager), [**Ika**](https://x.com/vinibarbosabr/status/2059247065310347717), and [**Dash's Orchard Implementation**](https://thecoding.substack.com/p/dash-orchard-zcash-privacy-rebuilt).
 
 #### DevRel & Education
 - **MultiversX Developer Onboarding (Brazil)** — Assisted in campaign and mentorship for 12+ developers
