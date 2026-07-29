@@ -53,11 +53,13 @@ With **6+ years** of experience as a Technical Writer and Docs Engineer, I speci
 
 ### OSS Contributions
 
-| Project       | Type                     | Contribution                                      | Link |
-|---------------|--------------------------|---------------------------------------------------|------|
-| **SputnikDAO**      | Documentation & Research          | Opened issues and proposed fixes to code & commented docs during smart contract research| [sputnikdao2](https://github.com/near-daos/sputnik-dao-contract) |
-| **MultiversX**| Documentation Architecture | Participated in documentation task force and improved structure with reviews, edits, and proposals | [MultiversX](https://github.com/multiversx/mx-docs) |
-| **Nano**      | Community & Docs        | Supported technical community building and education | [Nano](https://github.com/nanocurrency) |
+| Project | Type | Contribution | Link |
+| --- | --- | --- | --- |
+| **P2P.me** | Documentation | Clarified smart-account vs exported private key behaviour in the Self-Custody & Fund Recovery docs (addresses real user confusion around recovery) | [PR #79](https://github.com/p2pdotme/docs/pull/79) |
+| **erc4337-driver** | Library | Lightweight TypeScript library to attach an existing thirdweb Account and drive `execute` / `executeBatch` from any EIP-1193 wallet (browser or CLI) | [repo](https://github.com/vinibarbosabr/erc4337-driver) |
+| **SputnikDAO** | Documentation & Research | Opened issues and proposed fixes during smart-contract research | [sputnik-dao-contract](https://github.com/near-daos/sputnik-dao-contract) |
+| **MultiversX** | Documentation Architecture | Participated in docs task force; reviews, structural improvements, and proposals | [mx-docs](https://github.com/multiversx/mx-docs) |
+| **Nano** | Community & Docs | Supported technical community building and education | [Nano](https://github.com/nanocurrency) |
 
 ---
 
@@ -75,8 +77,13 @@ With **6+ years** of experience as a Technical Writer and Docs Engineer, I speci
 - **NEAR Legion Brazil** — Community activation campaign for NEAR in Brazil: Community groups, events, talks, etc
 - Speaker at conferences, workshops, and hackathons (technical talks on blockchain and security)
 
+#### Account Abstraction & Tooling
+
+- **erc4337-driver** — Open-source library for driving existing thirdweb ERC-4337 smart accounts from any EIP-1193 provider
+- **P2P.me Self-Custody docs** — Clarified the difference between smart-account and admin addresses that was causing fund-recovery confusion [](https://github.com/p2pdotme/docs/pull/79)
+
 #### Public Documentation Contributions
-- Open-source documentation improvements for **NEAR**, **MultiversX**, **Zcash**, and **Nano**
+- Open-source documentation improvements for **P2PdotME**, **NEAR**, **MultiversX**, **Zcash**, and **Nano**
 
 ---
 
