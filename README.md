@@ -2,99 +2,73 @@
 
 # Vini Barbosa
 
-**Technical Writer & Docs Engineer** | **DevRel** | **Blockchain & Security**
+**Documentation Engineer & Technical Writer** · **Developer Education** · **Blockchain & Security Writing**
 
+[![Portfolio](https://img.shields.io/badge/thecoding.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thecoding.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussb90/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thecoding.substack.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thecoding.framer.website)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vinibarbosabr)
 
-**Brazil** • Open to Remote Opportunities
+Brazil · Remote · Open to documentation and developer-education work
 
 </div>
 
----
+I turn complex blockchain protocols, smart contracts, and security concepts into clear, maintainable documentation that developers actually use. In this industry since 2020, from a journalism and editorial path to docs-as-code, engineering, and security self-learning.
 
-I turn complex blockchain protocols, smart contracts, and security concepts into clear, maintainable documentation that developers actually use.
+## What I do
 
-With **6+ years** of experience as a Technical Writer and Docs Engineer, I specialize in **docs-as-code** workflows, developer onboarding, security research, and technical education for blockchain ecosystems.
+- **Documentation engineering**: docs-as-code (Git + Markdown + pull requests), information architecture, docs health checks, section rebuilds, API and SDK documentation
+- **Developer education**: tutorials, research articles, guides, workshops, onboarding paths, education-shaped DevRel
+- **Security writing**: technical explainers, research summaries, postmortems (writing only, not audits)
 
-### What I Do
+## Now
 
-- Build and maintain documentation using **Git + Markdown + Pull Requests**
-- Design information architecture and developer onboarding experiences
-- Write security research reports, postmortems, and technical deep-dives
-- Support DevRel initiatives (education, workshops, and community building)
+- **0xramp labs**: co-builder, docs and partner SDK lead for a non-custodial fiat-to-crypto ramp, live in production  
+  [docs.0xramp.app](https://docs.0xramp.app) · [0xramp-docs](https://github.com/0xramp-labs/0xramp-docs) · [0xramp-sdk](https://github.com/0xramp-labs/0xramp-sdk) (TypeScript)
+- **thecoding.dev**: my services site, overhauled docs-as-code in the open; the [buyer-path overhaul](https://github.com/vinibarbosabr/thecoding-docs/milestone/1) (issues, PRs, phases) is public and part of the portfolio
 
-### Expertise
+## Selected work
 
-| Area                    | Focus                                      |
-|-------------------------|--------------------------------------------|
-| **Documentation**       | Docs-as-code, Information Architecture, API & Protocol Docs |
-| **Blockchain**          | NEAR (Advanced), EVM & Solana (Intermediate) |
-| **Security**            | Smart contract analysis, Research reports, Postmortems |
-| **DevRel**              | Developer onboarding, Workshops, Technical education |
+- **Dash**: two sponsored research deep dives, a repeat commission from the same client: [GroveDB deep dive](https://thecoding.substack.com/p/a-look-at-grovedb-making-blockchains) and [Dash Orchard explainer](https://thecoding.substack.com/p/dash-orchard-zcash-privacy-rebuilt)
+- **Quai Network**: [Quai Starter Pack](https://thecoding.substack.com/p/quai-starter-pack-a-quickstart-guide), sponsored quickstart guide with tested steps
+- **MultiversX**: [official blog post](https://multiversx.com/blog/andromeda-supernova-highspeed-highways) on the Andromeda upgrade, plus a developer education pilot in Brazil (first MultiversX meetup, Portuguese newsletter, mentorship support)
+- **HackenProof**: guest article on [bug bounty hunting](https://hackenproof.com/blog/how-to-become-a-bug-bounty-hunter)
+- **NEAR**: protocol research on [thecoding.substack.com](https://thecoding.substack.com), including [Storage Cost Attacks on NEAR](https://thecoding.substack.com/p/storage-cost-attacks-on-near-explained)
+- **Nano Foundation**: technical education articles on the official blog during my community lead tenure
 
-**Tools & Workflow**: Git, Markdown, Mintlify, Docusauros, Python (automation), Linux CLI
+Full list with context, surface, and what was not done: [thecoding.dev/work](https://thecoding.dev/work)
 
----
+## Open source
 
-### Recent Impact
+| Project | Type | Contribution |
+| --- | --- | --- |
+| [0xramp-sdk](https://github.com/0xramp-labs/0xramp-sdk) | Library | Partner SDK lead (TypeScript, v0): origin-pinned WebView bridge, golden-fixture conformance tests, sandbox, Electron and React Native examples; engineering docs (`SPEC.md`, `DESIGN.md`, [partner guide](https://github.com/0xramp-labs/0xramp-sdk/blob/main/docs/partner-guide.md)) |
+| [erc4337-driver](https://github.com/vinibarbosabr/erc4337-driver) | Library | Lightweight TypeScript library to drive an existing thirdweb ERC-4337 account from any EIP-1193 provider |
+| [0xramp-docs](https://github.com/0xramp-labs/0xramp-docs) | Documentation | Site architecture and guides, Mintlify + MDX, docs-as-code pipeline |
+| [near/docs](https://github.com/near/docs) | Documentation | Open-source documentation PRs |
+| [multiversx/mx-docs](https://github.com/multiversx/mx-docs) | Documentation | Docs task force: reviews and structural proposals |
+| [sputnik-dao-contract](https://github.com/near-daos/sputnik-dao-contract) | Research | Issues and fixes proposed during smart-contract research |
+| P2P.me | Documentation | Clarified smart-account vs fund-recovery behaviour in the self-custody docs (repo no longer public) |
+| [thecoding-docs](https://github.com/vinibarbosabr/thecoding-docs) | Documentation | This site's repo: Mintlify + MDX, public overhaul milestone |
 
-- Leading **NEAR Legion Brazil** dev community activation focused on the NEAR Protocol
-- Assisted developer onboarding campaign for **MultiversX in Brazil**, mentoring **12+ developers**
-- Contributed to documentation architecture and open-source docs for **NEAR, MultiversX, Zcash**
-- Produced technical articles and research for blockchain projects and security initiatives
-- Active speaker at conferences, workshops, and hackathons
+## Skills
 
-**Currently**: Active **NEAR Protocol validator** (250K+ NEAR delegated) and top community delegate in NEAR Governance (House of Stake) with 300K+ veNEAR delegated.
+- **Documentation and writing**: docs-as-code, Git and GitHub pull requests, Markdown/MDX, Mintlify, mdBook, information architecture, API and SDK documentation, developer onboarding, style guides
+- **Engineering**: TypeScript, Rust, Python, Solidity (EVM), Foundry, Linux (Arch), Neovim
+- **Ecosystems**: NEAR (advanced), MultiversX, Zcash (Orchard and GroveDB research), Nano, EVM and Solana (intermediate)
+- **Education**: workshops and talks, mentoring, tutorials and learning series
 
----
+## Ecosystem participation
 
-### OSS Contributions
+NEAR Protocol validator (`thecoding.pool.near`) and governance delegate on NEAR House of Stake.
 
-| Project | Type | Contribution | Link |
-| --- | --- | --- | --- |
-| **P2P.me** | Documentation | Clarified smart-account vs exported private key behaviour in the Self-Custody & Fund Recovery docs (addresses real user confusion around recovery) | [PR #79](https://github.com/p2pdotme/docs/pull/79) |
-| **erc4337-driver** | Library | Lightweight TypeScript library to attach an existing thirdweb Account and drive `execute` / `executeBatch` from any EIP-1193 wallet (browser or CLI) | [repo](https://github.com/vinibarbosabr/erc4337-driver) |
-| **SputnikDAO** | Documentation & Research | Opened issues and proposed fixes during smart-contract research | [sputnik-dao-contract](https://github.com/near-daos/sputnik-dao-contract) |
-| **MultiversX** | Documentation Architecture | Participated in docs task force; reviews, structural improvements, and proposals | [mx-docs](https://github.com/multiversx/mx-docs) |
-| **Nano** | Community & Docs | Supported technical community building and education | [Nano](https://github.com/nanocurrency) |
+## Contact
 
----
+- Portfolio, resume, and work samples: [thecoding.dev](https://thecoding.dev) ([/resume](https://thecoding.dev/resume) · [/work](https://thecoding.dev/work))
+- Work inquiries: [thecoding.dev/contact](https://thecoding.dev/contact)
+- Email: [vinibarbosabr@proton.me](mailto:vinibarbosabr@proton.me)
 
-### Selected Work
-
-#### Technical Writing & Research
-- **Storage Cost Attacks on NEAR** — Technical deep-dive  
-  [Read on Substack](https://thecoding.substack.com/p/storage-cost-attacks-on-near-explained)
-- **How to Become a Bug Bounty Hunter** — Guest article  
-  [Read on HackenProof](https://hackenproof.com/blog/how-to-become-a-bug-bounty-hunter)
-- Technical articles and research for [**MultiversX**](https://multiversx.com/blog/andromeda-supernova-highspeed-highways), [**Trezu**](https://thecoding.substack.com/p/meet-trezu-multichain-treasury-manager), [**Ika**](https://x.com/vinibarbosabr/status/2059247065310347717), and [**Dash's Orchard Implementation**](https://thecoding.substack.com/p/dash-orchard-zcash-privacy-rebuilt).
-
-#### DevRel & Education
-- **MultiversX Developer Onboarding (Brazil)** — Assisted in campaign and mentorship for 12+ developers
-- **NEAR Legion Brazil** — Community activation campaign for NEAR in Brazil: Community groups, events, talks, etc
-- Speaker at conferences, workshops, and hackathons (technical talks on blockchain and security)
-
-#### Account Abstraction & Tooling
-
-- **erc4337-driver** — Open-source library for driving existing thirdweb ERC-4337 smart accounts from any EIP-1193 provider
-- **P2P.me Self-Custody docs** — Clarified the difference between smart-account and admin addresses that was causing fund-recovery confusion [](https://github.com/p2pdotme/docs/pull/79)
-
-#### Public Documentation Contributions
-- Open-source documentation improvements for **P2PdotME**, **NEAR**, **MultiversX**, **Zcash**, and **Nano**
-
----
-
-### Let's Connect
-
-I'm open to **Technical Writer, Docs Engineer, and DevRel** roles (full-time, part-time, or freelance), especially in **blockchain, infrastructure, or security**.
-
-- [LinkedIn](https://www.linkedin.com/in/viniciussb90/)
-- [Portfolio & Work Samples](https://thecoding.framer.website)
-- [Technical Writing on Substack](https://thecoding.substack.com)
-- Email: vinibarbosabr@proton.me
+If you want to discuss documentation or developer education work, send a brief: the product, the surface that hurts, and your timing. Five lines are enough.
 
 ---
 
