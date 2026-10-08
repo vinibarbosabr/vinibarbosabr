@@ -19,7 +19,7 @@ I turn complex blockchain protocols, smart contracts, and security concepts into
 
 - **Documentation engineering**: docs-as-code (Git + Markdown + pull requests), information architecture, docs health checks, section rebuilds, API and SDK documentation
 - **Developer education**: tutorials, research articles, guides, workshops, onboarding paths, education-shaped DevRel
-- **Security writing**: technical explainers, research summaries, postmortems (writing only, not audits)
+- **Security writing**: technical explainers, research summaries, postmortems, security reports, and security documentation
 
 ## Now
 
